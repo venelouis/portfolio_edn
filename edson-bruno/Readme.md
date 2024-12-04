@@ -18,4 +18,4 @@ A página exibe uma mensagem de boas-vindas, um GIF animado para tornar o design
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/sucloudflare.git
+   git clone https://github.com/sucloudflare.git
